@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there! I'm Joo. 👋
 I'm a new backEnd developer who studies and develops every day. 😄 <p>
-Please give me a lot of feedback and advice for my continued development. 💬
+Please give me a lot of feedback and advice for my continued development. 💬 <p>
 <img src="https://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=CC6699"/>
 
 
