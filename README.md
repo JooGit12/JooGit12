@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there! I'm Joo. 👋
-### I'm a new backEnd developer who studies and develops every day. 😄
+# Hi there! I'm Joo. 👋
+## I'm a new backEnd developer who studies and develops every day. 😄
 ### Please give me a lot of feedback and advice for my continued development. 💬
 
 
