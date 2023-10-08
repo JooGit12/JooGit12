@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there! I'm Joo. 👋
 ### I'm a new backEnd developer who studies and develops every day. 😄
-### Please give me a lot of feedback and advice for my continued development. 😄
+### Please give me a lot of feedback and advice for my continued development. 💬
 
 
