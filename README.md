@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <p> ### Hi there! I'm Joo. 👋</p>
+   ### Hi there! I'm Joo. 👋
   <p>I'm a new backEnd developer who studies and develops every day. 😄</p>
   <p>Please give me a lot of feedback and advice for my continued development. 💬</p>
   <a href="https://www.notion.so/Joo-Library-86519211a32a4bb681da8f619b952d3e?pvs=4">
