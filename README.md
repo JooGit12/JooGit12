@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###
+
 <div align="center">
   <p><h2>🦊Hi there! I'm Joo.🦊</h2></p>
   <p>I'm a new backEnd developer who studies and develops every day.🔥</p>
