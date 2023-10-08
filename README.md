@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 ###
 <div align="center">
-  <p> Hi there! I'm Joo. 👋</p>
-  <p>I'm a new backEnd developer who studies and develops every day. 😄</p>
-  <p>Please give me a lot of feedback and advice for my continued development. 💬</p>
+  <p>🦊Hi there! I'm Joo.🦊</p>
+  <p>🔥I'm a new backEnd developer who studies and develops every day.🔥</p>
+  <p>💬Please give me a lot of feedback and advice for my continued development.💬</p>
   <a href="https://www.notion.so/Joo-Library-86519211a32a4bb681da8f619b952d3e?pvs=4">
     <img src="https://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=CC6699"/>
   </a>
