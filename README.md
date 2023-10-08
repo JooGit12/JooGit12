@@ -1,6 +1,7 @@
-### Hi there 👋
-
-<!--
+### Hi there! I'm Joo. 👋
+### I'm a new backEnd developer who studies and develops every day. 😄
+### Please give me a lot of feedback and advice for my continued development. 😄
+<!--  
 **JooGit12/JooGit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
