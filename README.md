@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there! I'm Joo. 👋
-I'm a new backEnd developer who studies and develops every day. 😄
+I'm a new backEnd developer who studies and develops every day. 😄 <p>
 Please give me a lot of feedback and advice for my continued development. 💬
 
 
