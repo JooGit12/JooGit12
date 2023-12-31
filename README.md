@@ -23,7 +23,5 @@ Here are some ideas to get you started:
   </a>
   <br>
   <br>
-  <a href="https://github.com/JooGit12/JooGit12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooGit12&langs_count=10&layout=compact&theme=dark" alt="Top Langs"/>
-  </a
+
 </div>
