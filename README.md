@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <p><h2>🦊Hi there! I'm Joo.🦊</h2></p>
+  <h2>🦊Hi there! I'm Joo.🦊</h2>
   <p>I'm a new backEnd developer who studies and develops every day.🔥</p>
   <p>Please give me a lot of feedback and advice for my continued development.💬</p>
   <a href="https://www.notion.so/Joo-Library-86519211a32a4bb681da8f619b952d3e?pvs=4">
     <img src="https://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=CC6699"/>
   </a>
-  <img src = "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooGit12&langs_count=10&layout=compact&theme=dark)](https://github.com/JooGit12/JooGit12)﻿">
+  <br>
+  <a href="https://github.com/JooGit12/JooGit12">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooGit12&langs_count=10&layout=compact&theme=dark" alt="Top Langs"/>
+  </a>
 </div>
