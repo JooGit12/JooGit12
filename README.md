@@ -22,4 +22,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=CC6699"/>
   </a>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooGit12)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=shape&color=abcdef&height=100&section=header&text=안녕하세요&fontSize=40" />
