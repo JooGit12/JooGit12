@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p>
-    ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello World! I'm Joo🦊
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello World! I'm Joo🦊
   </p>
   <div style="text-align: center;">
     <p>I'm a new backEnd developer who studies and develops every day.🔥</p>
